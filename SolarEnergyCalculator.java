@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class SolarEnergyCalculator
 {
-    // Method to calculate total energy generated
+    
     public static double calculateTotalEnergy(double morningEnergy, double eveningEnergy) {
         return morningEnergy + eveningEnergy;
     }
